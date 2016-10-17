@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="suha.html">suha</a></td></tr>
+<tr><td><a href="test1.html">test1</a></td></tr>
+<tr><td><a href="u of a site number 1.html">u of a site number 1</a></td></tr>
+<tr><td><a href="cats wearing bread.html">cats wearing bread</a></td></tr>
+<tr><td><a href="susa.html">susa</a></td></tr>
+<tr><td><a href="susaafterlogin.html">susaafterlogin</a></td></tr>
+<tr><td><a href="rad combobox example.html">rad combobox example</a></td></tr>
+</tbody></table>
+</body>
+</html>
